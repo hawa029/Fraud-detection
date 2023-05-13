@@ -1,5 +1,6 @@
-# Fraud-detection
-ProjectClassification - Fraud detection
+# Classification Project - AI Dev Training
+
+## Project context
 
 ## Context
 
@@ -9,4 +10,19 @@ A new one has just arrived and there is now enough data to implement a system fo
 
 The task at hand is to develop an approach that detects suspicious activity that is indicative of fraud.
 
-## Python / Flask 
+## Functional specifications
+
+- Home page (Login)
+- Data loading page
+- Prediction page
+
+## Technical specifications
+
+- Front-end
+
+  - Flask framework with Jinja2 templates
+  - Html, Css, JavaScript
+
+- Back-end
+  - Python
+  - MySQL or SQLite database
